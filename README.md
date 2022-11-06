@@ -1,4 +1,4 @@
-Burepoda patika.dev in düzenlemiş olduğu ve a101 şirketinin sponsor olduğu practicum final projesi yer almaktadır.
+Bu repoda patika.dev in düzenlemiş olduğu ve a101 şirketinin sponsor olduğu practicum final projesi yer almaktadır.
 Bu proje bir test senaryosu içermektedir.
 Test aşamasında Junit, POM mimarisi, log4j teknolojileri kullanılmıştır.
 Test iki kısımdan oluşmaktadır. Ve senaryolar şu şekildedir.
