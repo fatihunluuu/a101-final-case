@@ -1,0 +1,20 @@
+2022-11-06 18:17:00 INFO  TestWithRegister:61 - hepsiburada.com sitesine giriş yapıldı.
+2022-11-06 18:17:03 INFO  TestWithRegister:75 - Giriş yap butonuna tıklandı
+2022-11-06 18:17:05 INFO  TestWithRegister:81 - Giriş yap sekmesinden giriş yapıldı.
+2022-11-06 18:17:10 INFO  TestWithRegister:92 - Arama kısmından ürün arandı.
+2022-11-06 18:17:17 INFO  TestWithRegister:106 - Ürünler listelendi ve bir tanesi seçildi.
+2022-11-06 18:17:21 INFO  TestWithRegister:114 - Seçilen ürün sepete eklendi.
+2022-11-06 18:17:26 INFO  TestWithRegister:123 - İkinci ürün seçildi ve sepete eklendi
+2022-11-06 18:17:28 INFO  TestWithRegister:131 - Sepete gidildi ve iki farklı satıcıdan ürünler eklendi.
+2022-11-06 18:20:57 INFO  TestWithRegister:53 - hepsiburada.com sitesine giriş yapıldı.
+2022-11-06 18:20:58 INFO  TestWithRegister:64 - Arama kısmından ürün arandı.
+2022-11-06 18:21:05 INFO  TestWithRegister:77 - Ürünler listelendi ve bir tanesi seçildi.
+2022-11-06 18:21:10 INFO  TestWithRegister:85 - Seçilen ürün sepete eklendi.
+2022-11-06 18:21:14 INFO  TestWithRegister:94 - İkinci ürün seçildi ve sepete eklendi
+2022-11-06 18:21:16 INFO  TestWithRegister:102 - Sepete gidildi ve iki farklı satıcıdan ürünler eklendi.
+2022-11-06 18:26:23 INFO  TestWithRegister:53 - hepsiburada.com sitesine giriş yapıldı.
+2022-11-06 18:26:24 INFO  TestWithRegister:64 - Arama kısmından ürün arandı.
+2022-11-06 18:26:32 INFO  TestWithRegister:77 - Ürünler listelendi ve bir tanesi seçildi.
+2022-11-06 18:26:36 INFO  TestWithRegister:85 - Seçilen ürün sepete eklendi.
+2022-11-06 18:26:41 INFO  TestWithRegister:94 - İkinci ürün seçildi ve sepete eklendi
+2022-11-06 18:26:43 INFO  TestWithRegister:102 - Sepete gidildi ve iki farklı satıcıdan ürünler eklendi.
